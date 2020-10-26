@@ -1,0 +1,163 @@
+Categoria,ÁREA DE CONHECIMENTO,ANO,REMUNERAÇÃO MÉDIA MENSAL,NÚMERO DE TÍTULOS
+Mestres,Ciências Agrárias,2009,5217,3834
+Mestres,Ciências Agrárias,2010,6022,4099
+Mestres,Ciências Agrárias,2011,6334,4523
+Mestres,Ciências Agrárias,2012,6873,5141
+Mestres,Ciências Agrárias,2013,7290,5359
+Mestres,Ciências Agrárias,2014,8267,5539
+Mestres,Ciências Agrárias,2015,8711,5348
+Mestres,Ciências Agrárias,2016,9127,5504
+Mestres,Ciências Agrárias,2017,9392,5411
+Mestres,Ciências Biológicas,2009,4813,2620
+Mestres,Ciências Biológicas,2010,5490,2667
+Mestres,Ciências Biológicas,2011,5769,3026
+Mestres,Ciências Biológicas,2012,6157,3361
+Mestres,Ciências Biológicas,2013,6524,3661
+Mestres,Ciências Biológicas,2014,7122,3426
+Mestres,Ciências Biológicas,2015,7589,3411
+Mestres,Ciências Biológicas,2016,8025,3244
+Mestres,Ciências Biológicas,2017,8219,3462
+Mestres,Ciências da Saúde,2009,6425,5728
+Mestres,Ciências da Saúde,2010,7282,5988
+Mestres,Ciências da Saúde,2011,7701,6583
+Mestres,Ciências da Saúde,2012,8151,7359
+Mestres,Ciências da Saúde,2013,8734,7518
+Mestres,Ciências da Saúde,2014,9321,7997
+Mestres,Ciências da Saúde,2015,9907,8442
+Mestres,Ciências da Saúde,2016,10515,8818
+Mestres,Ciências da Saúde,2017,10687,8863
+Mestres,Ciências Exatas e da Terra,2009,6462,3208
+Mestres,Ciências Exatas e da Terra,2010,7102,3360
+Mestres,Ciências Exatas e da Terra,2011,7609,3567
+Mestres,Ciências Exatas e da Terra,2012,8229,3801
+Mestres,Ciências Exatas e da Terra,2013,8845,4053
+Mestres,Ciências Exatas e da Terra,2014,10038,4859
+Mestres,Ciências Exatas e da Terra,2015,10478,5107
+Mestres,Ciências Exatas e da Terra,2016,10883,5245
+Mestres,Ciências Exatas e da Terra,2017,11289,5147
+Mestres,Ciências Humanas,2009,5005,6675
+Mestres,Ciências Humanas,2010,5630,6714
+Mestres,Ciências Humanas,2011,5958,7144
+Mestres,Ciências Humanas,2012,6365,7499
+Mestres,Ciências Humanas,2013,6827,8133
+Mestres,Ciências Humanas,2014,7646,8434
+Mestres,Ciências Humanas,2015,8074,9192
+Mestres,Ciências Humanas,2016,8331,9488
+Mestres,Ciências Humanas,2017,8645,10006
+Mestres,Ciências Sociais Aplicadas,2009,9304,5877
+Mestres,Ciências Sociais Aplicadas,2010,9992,5802
+Mestres,Ciências Sociais Aplicadas,2011,10488,6321
+Mestres,Ciências Sociais Aplicadas,2012,11086,6858
+Mestres,Ciências Sociais Aplicadas,2013,11640,7097
+Mestres,Ciências Sociais Aplicadas,2014,12413,7855
+Mestres,Ciências Sociais Aplicadas,2015,13337,8313
+Mestres,Ciências Sociais Aplicadas,2016,13858,8990
+Mestres,Ciências Sociais Aplicadas,2017,14179,9470
+Mestres,Engenharias,2009,7887,4996
+Mestres,Engenharias,2010,8723,4827
+Mestres,Engenharias,2011,9337,5282
+Mestres,Engenharias,2012,10060,5506
+Mestres,Engenharias,2013,10887,5586
+Mestres,Engenharias,2014,12371,5865
+Mestres,Engenharias,2015,12645,6245
+Mestres,Engenharias,2016,13206,6888
+Mestres,Engenharias,2017,13475,7204
+Mestres,"Linguística, Letras e Artes",2009,4301,2528
+Mestres,"Linguística, Letras e Artes",2010,4960,2350
+Mestres,"Linguística, Letras e Artes",2011,5270,2662
+Mestres,"Linguística, Letras e Artes",2012,5633,2913
+Mestres,"Linguística, Letras e Artes",2013,6068,2987
+Mestres,"Linguística, Letras e Artes",2014,6805,3274
+Mestres,"Linguística, Letras e Artes",2015,7375,3794
+Mestres,"Linguística, Letras e Artes",2016,7615,3704
+Mestres,"Linguística, Letras e Artes",2017,8026,3505
+Mestres,Multidisciplinar,2009,6016,3359
+Mestres,Multidisciplinar,2010,6721,3732
+Mestres,Multidisciplinar,2011,7127,4041
+Mestres,Multidisciplinar,2012,7592,4524
+Mestres,Multidisciplinar,2013,7998,5262
+Mestres,Multidisciplinar,2014,8867,6112
+Mestres,Multidisciplinar,2015,9184,7034
+Mestres,Multidisciplinar,2016,9478,7783
+Mestres,Multidisciplinar,2017,9641,8593
+Doutores,Ciências Agrárias,2009,8345,1426
+Doutores,Ciências Agrárias,2010,10561,1475
+Doutores,Ciências Agrárias,2011,11123,1512
+Doutores,Ciências Agrárias,2012,12339,1852
+Doutores,Ciências Agrárias,2013,13008,2066
+Doutores,Ciências Agrárias,2014,14160,2268
+Doutores,Ciências Agrárias,2015,14819,2426
+Doutores,Ciências Agrárias,2016,15780,2695
+Doutores,Ciências Agrárias,2017,16511,2636
+Doutores,Ciências Biológicas,2009,8039,1271
+Doutores,Ciências Biológicas,2010,9923,1200
+Doutores,Ciências Biológicas,2011,10319,1287
+Doutores,Ciências Biológicas,2012,10942,1420
+Doutores,Ciências Biológicas,2013,11928,1547
+Doutores,Ciências Biológicas,2014,12911,1822
+Doutores,Ciências Biológicas,2015,13439,1897
+Doutores,Ciências Biológicas,2016,14385,1972
+Doutores,Ciências Biológicas,2017,14923,1993
+Doutores,Ciências da Saúde,2009,8708,2128
+Doutores,Ciências da Saúde,2010,10405,2131
+Doutores,Ciências da Saúde,2011,11009,2384
+Doutores,Ciências da Saúde,2012,11427,2596
+Doutores,Ciências da Saúde,2013,12444,2899
+Doutores,Ciências da Saúde,2014,13374,3153
+Doutores,Ciências da Saúde,2015,13980,3451
+Doutores,Ciências da Saúde,2016,14904,3733
+Doutores,Ciências da Saúde,2017,15396,3896
+Doutores,Ciências Exatas e da Terra,2009,8313,1122
+Doutores,Ciências Exatas e da Terra,2010,10421,1176
+Doutores,Ciências Exatas e da Terra,2011,10894,1224
+Doutores,Ciências Exatas e da Terra,2012,11321,1354
+Doutores,Ciências Exatas e da Terra,2013,12595,1450
+Doutores,Ciências Exatas e da Terra,2014,13938,1683
+Doutores,Ciências Exatas e da Terra,2015,14553,1812
+Doutores,Ciências Exatas e da Terra,2016,15540,1931
+Doutores,Ciências Exatas e da Terra,2017,16486,2109
+Doutores,Ciências Humanas,2009,8117,1957
+Doutores,Ciências Humanas,2010,10125,2007
+Doutores,Ciências Humanas,2011,10602,2165
+Doutores,Ciências Humanas,2012,10905,2299
+Doutores,Ciências Humanas,2013,11957,2636
+Doutores,Ciências Humanas,2014,13077,2880
+Doutores,Ciências Humanas,2015,13770,3239
+Doutores,Ciências Humanas,2016,14557,3417
+Doutores,Ciências Humanas,2017,15315,3604
+Doutores,Ciências Sociais Aplicadas,2009,11425,953
+Doutores,Ciências Sociais Aplicadas,2010,13125,944
+Doutores,Ciências Sociais Aplicadas,2011,13771,977
+Doutores,Ciências Sociais Aplicadas,2012,14150,1269
+Doutores,Ciências Sociais Aplicadas,2013,15153,1313
+Doutores,Ciências Sociais Aplicadas,2014,16019,1540
+Doutores,Ciências Sociais Aplicadas,2015,16989,1625
+Doutores,Ciências Sociais Aplicadas,2016,17855,2001
+Doutores,Ciências Sociais Aplicadas,2017,18411,2189
+Doutores,Engenharias,2009,9450,1284
+Doutores,Engenharias,2010,11564,1193
+Doutores,Engenharias,2011,12176,1346
+Doutores,Engenharias,2012,12635,1516
+Doutores,Engenharias,2013,13969,1564
+Doutores,Engenharias,2014,15323,1660
+Doutores,Engenharias,2015,15916,1966
+Doutores,Engenharias,2016,16834,2051
+Doutores,Engenharias,2017,17713,2000
+Doutores,"Linguística, Letras e Artes",2009,7333,733
+Doutores,"Linguística, Letras e Artes",2010,9329,643
+Doutores,"Linguística, Letras e Artes",2011,9870,750
+Doutores,"Linguística, Letras e Artes",2012,10221,755
+Doutores,"Linguística, Letras e Artes",2013,11461,896
+Doutores,"Linguística, Letras e Artes",2014,12618,1124
+Doutores,"Linguística, Letras e Artes",2015,13131,1210
+Doutores,"Linguística, Letras e Artes",2016,13885,1195
+Doutores,"Linguística, Letras e Artes",2017,14605,1276
+Doutores,Multidisciplinar,2009,8719,510
+Doutores,Multidisciplinar,2010,10255,540
+Doutores,Multidisciplinar,2011,10724,664
+Doutores,Multidisciplinar,2012,11186,841
+Doutores,Multidisciplinar,2013,12089,1002
+Doutores,Multidisciplinar,2014,13174,1149
+Doutores,Multidisciplinar,2015,13742,1368
+Doutores,Multidisciplinar,2016,14466,1602
+Doutores,Multidisciplinar,2017,15204,1904
